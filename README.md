@@ -88,8 +88,7 @@ Terdapat tren penurunan jumlah pengajuan yang signifikan di setiap tahunnya (202
 Rata-rata waktu yang dibutuhkan dari sebuah pengajuan dibuat hingga diperiksa (approval) adalah sekitar **37.77 hari**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9f78fba-e9c6-40ad-a9c9-60ddc9d35f5a
-" width="700" alt="Grafik Durasi Proses">
+  <img src="https://github.com/user-attachments/assets/e9f78fba-e9c6-40ad-a9c9-60ddc9d35f5a" width="700" alt="Grafik Durasi Proses">
 </p>
 
 ## 💻 Teknologi & Library
